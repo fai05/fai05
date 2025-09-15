@@ -1,5 +1,4 @@
-# 💫 About Me:
-AI & Data Science  <br>NLP <br>Machine Learning  <br>Cloud (AWS)  <br>Ex-Intern @ Nelen & Schuurmans (Netherlands)  <br>Content Lead @ Fraternity of Leaders  <br>Outreach Head @ Pop Culture Club  <br>Final Year B.Tech CSE @ VIT
+
 
 
 ## 🌐 Socials:
